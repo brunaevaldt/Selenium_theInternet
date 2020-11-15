@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helper", "helper\helper.csproj", "{7F14F74C-9329-4E31-9091-D8196DB313BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheInternetTests", "nunit\TheInternetTests.csproj", "{6A5CA40D-5876-4F7B-A4FA-E8A3814DAA01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F14F74C-9329-4E31-9091-D8196DB313BC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7F14F74C-9329-4E31-9091-D8196DB313BC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7F14F74C-9329-4E31-9091-D8196DB313BC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7F14F74C-9329-4E31-9091-D8196DB313BC}.Release|anycpu.Build.0 = Release|anycpu
+		{6A5CA40D-5876-4F7B-A4FA-E8A3814DAA01}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{6A5CA40D-5876-4F7B-A4FA-E8A3814DAA01}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{6A5CA40D-5876-4F7B-A4FA-E8A3814DAA01}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{6A5CA40D-5876-4F7B-A4FA-E8A3814DAA01}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
